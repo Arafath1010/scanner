@@ -1,0 +1,7 @@
+fastapi
+requests
+uvicorn
+scikit-image
+opencv-python
+imutils
+numpy
